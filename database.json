@@ -291,6 +291,20 @@
       "song6": "Folk Fusion",
       "genreId": 10,
       "userId": 6
+    },
+    {
+      "name": "Mac & Cheez",
+      "imgUrl": "https://www.foodandwine.com/thmb/MT4ou8PYjRGpQBEsm1SyZxfN8Oo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/types-of-cheese-chefs-always-have-in-their-fridge-FT-BLOG0122-f4ff1613b1b14b09ad0b6c0734a59781.jpg",
+      "artistName": "Banana",
+      "song1": "OMG",
+      "song2": "why",
+      "song3": "You so so",
+      "song4": "Beanie Babies",
+      "song5": "Peaches & Cream",
+      "song6": "Ha!",
+      "genreId": 2,
+      "userId": 1,
+      "id": 16
     }
   ],
   "lpAlbums": [
@@ -578,6 +592,25 @@
       "song11": "Voyage to Infinity",
       "genreId": 5,
       "userId": 4
+    },
+    {
+      "name": "Boop",
+      "imgUrl": "https://images.squarespace-cdn.com/content/v1/61454c3a9e607805cad7423a/1673577428790-WWAYZVH18NZPHVKRZ89F/unsplash-image-HgdfxyGYfrc.jpg",
+      "artistName": "Nema",
+      "song1": "lol",
+      "song2": "xyz",
+      "song3": "ABC",
+      "song4": "JSX",
+      "song5": "HAHAHA",
+      "song6": "hellow",
+      "song7": "hellow(acoustic)",
+      "song8": "water",
+      "song9": "yellow",
+      "song10": "Stay With Us",
+      "song11": "Please",
+      "genreId": 6,
+      "userId": 1,
+      "id": 16
     }
   ]
 }
