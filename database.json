@@ -424,7 +424,7 @@
     },
     {
       "id": 7,
-      "name": "Guitar Legends Unleashed",
+      "name": "Unleashed",
       "imgUrl": "https://coverartworks.com/wp-content/uploads/2020/03/artwork7-jpg.webp",
       "artistName": "Sourpatch",
       "song1": "Shredding Mastery",
@@ -519,7 +519,7 @@
     },
     {
       "id": 12,
-      "name": "Jazz Noir Chronicles",
+      "name": "Noir",
       "imgUrl": "https://d2n9ha3hrkss16.cloudfront.net/uploads/stage/stage_image/21021/optimized_large_thumb_placeit1.jpg",
       "artistName": "Sakura",
       "song1": "Midnight Jazz Tales",
@@ -531,14 +531,14 @@
       "song7": "Mysterious Melodies",
       "song8": "Moonlit Jazz Noir",
       "song9": "Hard-Boiled Jazz",
-      "song10": "Jazz Noir Chronicles",
+      "song10": "Noir",
       "song11": "Detective Swing",
       "genreId": 4,
       "userId": 1
     },
     {
       "id": 13,
-      "name": "Guitar Legends Unleashed",
+      "name": "Queens",
       "imgUrl": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/256052221/original/f4af2bb6ecb7b50a90c2aa661b084ceeb5426965/make-any-picture-into-a-fake-album-cover.jpg",
       "artistName": "Southern Lights",
       "song1": "Shredding Mastery",
@@ -557,7 +557,7 @@
     },
     {
       "id": 14,
-      "name": "Mystical Echoes of Atlantis",
+      "name": "Atlantis",
       "imgUrl": "https://i.imgur.com/xMqkMzA.jpeg",
       "artistName": "Pathetic Aesthetic",
       "song1": "Lost City Serenade",
@@ -576,7 +576,7 @@
     },
     {
       "id": 15,
-      "name": "Voyage to the Unknown",
+      "name": "Canyon",
       "imgUrl": "https://i.pinimg.com/originals/98/57/66/9857664f77c947fe94c4d547d87e5c7c.png",
       "artistName": "Acid Heads",
       "song1": "Journey into the Abyss",
