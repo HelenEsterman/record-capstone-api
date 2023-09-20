@@ -153,20 +153,6 @@
       "userId": 6
     },
     {
-      "id": 6,
-      "name": "Dreamscape Serenity",
-      "imgUrl": "https://static.boredpanda.com/blog/wp-content/uploads/2021/06/fake-album-covers-reddit-60d3201f9329f-jpeg__700.jpg",
-      "artistName": "Electric Alley",
-      "song1": "Lucid Reverie",
-      "song2": "Floating Dreams",
-      "song3": "Cloud Nine",
-      "song4": "Surreal Bliss",
-      "song5": "Whispering Zephyrs",
-      "song6": "Enchanted Visions",
-      "genreId": 5,
-      "userId": 9
-    },
-    {
       "id": 7,
       "name": "Funky Fusion",
       "imgUrl": "https://64.media.tumblr.com/c840ef6fba1cd656e880994d94c2afc6/d8a88cb22905e866-4b/s1280x1920/31a1e4f3c6ae3a5ba62d0b9e8373744a6805aa74.pnj",
@@ -265,20 +251,6 @@
       "userId": 2
     },
     {
-      "id": 14,
-      "name": "Symphonic Odyssey",
-      "imgUrl": "https://fakealbumcovers.com/images/FakeAlbums/cannon_discovery.png",
-      "artistName": "Canyon Discovery",
-      "song1": "Orchestral Journey",
-      "song2": "Epic Overture",
-      "song3": "Musical Odyssey",
-      "song4": "Majestic Fanfare",
-      "song5": "Symphonic Quest",
-      "song6": "Enchanted Concerto",
-      "genreId": 1,
-      "userId": 9
-    },
-    {
       "id": 15,
       "name": "Guitar Legends",
       "imgUrl": "https://i.guim.co.uk/img/media/63d464fad102a4f1d9817f89e5d232d7f6a88d87/0_0_4459_4409/master/4459.jpg?width=700&quality=85&auto=format&fit=max&s=957ced36dd3ba1eea1e0604e362e6462",
@@ -289,7 +261,7 @@
       "song4": "Acoustic Ballads",
       "song5": "Shredding Solos",
       "song6": "Folk Fusion",
-      "genreId": 6,
+      "genreId": 4,
       "userId": 9
     },
     {
@@ -319,6 +291,20 @@
       "genreId": 4,
       "userId": 1,
       "id": 17
+    },
+    {
+      "id": 19,
+      "name": "Abc",
+      "imgUrl": "https://4.bp.blogspot.com/-mxwGvxGAkKQ/V3YiUkDHyvI/AAAAAAAABQY/yCtjCcjcbNk_ifk8g1boP3eZtXs7Vf-hgCLcB/s640/tumblr_n3ohrzw1yP1smqfiko1_500.jpg",
+      "artistName": "Nema",
+      "song1": "xyz",
+      "song2": "Flower",
+      "song3": "Cash",
+      "song4": "LOL",
+      "song5": "jk",
+      "song6": "ABCD",
+      "genreId": 3,
+      "userId": 9
     }
   ]
 }
