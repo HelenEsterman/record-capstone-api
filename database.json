@@ -98,7 +98,7 @@
     },
     {
       "id": 2,
-      "name": "Ethereal Echoes",
+      "name": "Echo",
       "imgUrl": "https://i.pinimg.com/originals/0e/fb/13/0efb13304e6c69a383736aaad990cd5d.png",
       "artistName": "Urban Pulse",
       "song1": "Whispering Winds",
@@ -305,6 +305,20 @@
       "genreId": 2,
       "userId": 9,
       "id": 20
+    },
+    {
+      "name": "Chicken",
+      "imgUrl": "https://sugarfishsushi.com/wp-content/uploads/2019/09/SF2GoBox.jpg",
+      "artistName": "Star",
+      "song1": "Lilac",
+      "song2": "Trick or Treat",
+      "song3": "Banana",
+      "song4": "Dandelion",
+      "song5": "Petals",
+      "song6": "OK",
+      "genreId": 5,
+      "userId": 5,
+      "id": 21
     }
   ]
 }
