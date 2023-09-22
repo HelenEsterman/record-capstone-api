@@ -293,18 +293,18 @@
       "id": 17
     },
     {
-      "id": 19,
-      "name": "Exit Strategy",
-      "imgUrl": "https://4.bp.blogspot.com/-mxwGvxGAkKQ/V3YiUkDHyvI/AAAAAAAABQY/yCtjCcjcbNk_ifk8g1boP3eZtXs7Vf-hgCLcB/s640/tumblr_n3ohrzw1yP1smqfiko1_500.jpg",
-      "artistName": "Nema",
-      "song1": "xyz",
-      "song2": "Flower",
-      "song3": "Cash",
-      "song4": "LOL",
-      "song5": "jk",
-      "song6": "ABCD",
-      "genreId": 3,
-      "userId": 9
+      "name": "Lilacs",
+      "imgUrl": "https://i.pinimg.com/1200x/47/33/3f/47333f7c39c7bccc7d1b8abb0e6bed16.jpg",
+      "artistName": "Star",
+      "song1": "Rose",
+      "song2": "Petals",
+      "song3": "Trick or Treat",
+      "song4": "Fall",
+      "song5": "Candy",
+      "song6": "Pumpkin",
+      "genreId": 2,
+      "userId": 9,
+      "id": 20
     }
   ]
 }
