@@ -510,6 +510,21 @@
       "id": 88,
       "name": "Trick or Treat",
       "albumId": 17
+    },
+    {
+      "name": "Snake",
+      "albumId": 18,
+      "id": 89
+    },
+    {
+      "name": "Sugar Free",
+      "albumId": 18,
+      "id": 90
+    },
+    {
+      "name": "Keep",
+      "albumId": 18,
+      "id": 91
     }
   ],
   "albums": [
