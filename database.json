@@ -517,12 +517,12 @@
       "id": 89
     },
     {
-      "name": "Sand",
+      "name": "Ketchup",
       "albumId": 18,
       "id": 90
     },
     {
-      "name": "Keep",
+      "name": "Snake",
       "albumId": 18,
       "id": 91
     }
@@ -682,17 +682,13 @@
       "albumType": 1
     },
     {
-      "name": "abc",
+      "id": 18,
+      "name": "abd",
       "imgUrl": "https://images.squarespace-cdn.com/content/v1/61454c3a9e607805cad7423a/1673577428790-WWAYZVH18NZPHVKRZ89F/unsplash-image-HgdfxyGYfrc.jpg",
       "artistName": "Yes",
       "genreId": 4,
       "userId": 5,
-      "albumType": 1,
-      "id": 18
-    },
-    {
-      "albumType": 1,
-      "id": 19
+      "albumType": 1
     }
   ]
 }
