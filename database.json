@@ -689,6 +689,10 @@
       "userId": 5,
       "albumType": 1,
       "id": 18
+    },
+    {
+      "albumType": 1,
+      "id": 19
     }
   ]
 }
