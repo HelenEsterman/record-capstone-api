@@ -525,6 +525,96 @@
       "name": "Snake",
       "albumId": 18,
       "id": 91
+    },
+    {
+      "name": "See",
+      "albumId": 19,
+      "id": 92
+    },
+    {
+      "name": "Me and You",
+      "albumId": 19,
+      "id": 93
+    },
+    {
+      "name": "Go Away",
+      "albumId": "19",
+      "id": 94
+    },
+    {
+      "name": "Whirl",
+      "albumId": 20,
+      "id": 95
+    },
+    {
+      "name": "Wind on ME",
+      "albumId": 20,
+      "id": 96
+    },
+    {
+      "name": "55",
+      "albumId": 20,
+      "id": 97
+    },
+    {
+      "name": "Quiet",
+      "albumId": 20,
+      "id": 98
+    },
+    {
+      "name": "Quit",
+      "albumId": 20,
+      "id": 99
+    },
+    {
+      "name": "Sleep",
+      "albumId": 20,
+      "id": 100
+    },
+    {
+      "name": "Keep Me",
+      "albumId": 20,
+      "id": 101
+    },
+    {
+      "name": "Okie Dokie",
+      "albumId": 20,
+      "id": 102
+    },
+    {
+      "name": "Teenie Weenie",
+      "albumId": 20,
+      "id": 103
+    },
+    {
+      "name": "Jean Bean",
+      "albumId": 20,
+      "id": 104
+    },
+    {
+      "name": "Jess",
+      "albumId": 20,
+      "id": 105
+    },
+    {
+      "name": "Stop",
+      "albumId": 20,
+      "id": 106
+    },
+    {
+      "name": "Alright",
+      "albumId": 20,
+      "id": 107
+    },
+    {
+      "name": "7*",
+      "albumId": 20,
+      "id": 108
+    },
+    {
+      "name": "Hit me",
+      "albumId": 20,
+      "id": 109
     }
   ],
   "albums": [
@@ -673,12 +763,12 @@
       "albumType": 2
     },
     {
+      "id": 17,
       "name": "Chicken",
       "imgUrl": "https://sugarfishsushi.com/wp-content/uploads/2019/09/SF2GoBox.jpg",
       "artistName": "Star",
       "genreId": 5,
       "userId": 4,
-      "id": 17,
       "albumType": 1
     },
     {
@@ -689,6 +779,24 @@
       "genreId": 4,
       "userId": 5,
       "albumType": 1
+    },
+    {
+      "id": 19,
+      "name": " Rexy",
+      "imgUrl": " https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "artistName": " How ",
+      "genreId": 5,
+      "userId": 4,
+      "albumType": 1
+    },
+    {
+      "id": 20,
+      "name": "Cheap",
+      "imgUrl": "https://static.vecteezy.com/system/resources/thumbnails/025/181/412/small/picture-a-captivating-scene-of-a-tranquil-lake-at-sunset-ai-generative-photo.jpg",
+      "artistName": "Greep",
+      "genreId": 2,
+      "userId": 4,
+      "albumType": 2
     }
   ]
 }
