@@ -302,11 +302,6 @@
       "albumId": 9
     },
     {
-      "id": 47,
-      "name": "Snoop",
-      "albumId": 9
-    },
-    {
       "id": 48,
       "name": "Dogs",
       "albumId": 10
@@ -615,6 +610,26 @@
       "name": "Hit me",
       "albumId": 20,
       "id": 109
+    },
+    {
+      "name": "Snoop",
+      "albumId": "9",
+      "id": 116
+    },
+    {
+      "name": "j",
+      "albumId": 21,
+      "id": 117
+    },
+    {
+      "name": "k",
+      "albumId": 21,
+      "id": 118
+    },
+    {
+      "name": "l",
+      "albumId": 21,
+      "id": 119
     }
   ],
   "albums": [
@@ -797,6 +812,10 @@
       "genreId": 2,
       "userId": 4,
       "albumType": 2
+    },
+    {
+      "albumType": 1,
+      "id": 21
     }
   ]
 }
