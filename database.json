@@ -614,22 +614,7 @@
     {
       "name": "Snoop",
       "albumId": "9",
-      "id": 116
-    },
-    {
-      "name": "j",
-      "albumId": 21,
-      "id": 117
-    },
-    {
-      "name": "k",
-      "albumId": 21,
-      "id": 118
-    },
-    {
-      "name": "l",
-      "albumId": 21,
-      "id": 119
+      "id": 124
     }
   ],
   "albums": [
@@ -708,7 +693,7 @@
     {
       "id": 9,
       "name": "Electric Dreamscape",
-      "imgUrl": "https://art.ngfiles.com/images/1461000/1461506_wanimac_fake-punk-album-cover.png?f1602548760",
+      "imgUrl": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2018/02/graduated-filter-cool-contrast-fog.jpg?resize=750%2C500&ssl=1",
       "artistName": "Wannabes",
       "genreId": 6,
       "userId": 4,
@@ -812,10 +797,6 @@
       "genreId": 2,
       "userId": 4,
       "albumType": 2
-    },
-    {
-      "albumType": 1,
-      "id": 21
     }
   ]
 }
