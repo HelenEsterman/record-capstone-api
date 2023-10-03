@@ -2,51 +2,26 @@
   "users": [
     {
       "id": 1,
-      "email": "rockstar@coolmail.com",
-      "name": "Maverick Thunder"
-    },
-    {
-      "id": 2,
-      "email": "gamer123@awesome.com",
-      "name": "Zara Nightshade"
-    },
-    {
-      "id": 3,
-      "email": "adventure.seeker@email.com",
-      "name": "Finn Orion"
-    },
-    {
-      "id": 4,
-      "email": "musiclover@tunes.com",
-      "name": "Aria Serenade"
-    },
-    {
-      "id": 5,
-      "email": "bookworm@reading.com",
-      "name": "Eleanor Mystique"
-    },
-    {
-      "id": 6,
       "email": "wanderlust@traveler.com",
       "name": "Xander Wanderlust"
     },
     {
-      "id": 7,
+      "id": 2,
       "email": "sciencenerd@labrat.com",
       "name": "Luna Nebula"
     },
     {
-      "id": 8,
+      "id": 3,
       "email": "dreamer@fantasy.com",
       "name": "Caspian Dreamweaver"
     },
     {
-      "id": 9,
+      "id": 4,
       "email": "artlover@creativity.com",
       "name": "Iris Muse"
     },
     {
-      "id": 10,
+      "id": 5,
       "email": "foodie@delicious.com",
       "name": "Gourmet Nomad"
     }
@@ -81,244 +56,747 @@
       "name": "Emo"
     }
   ],
+  "albumTypes": [
+    {
+      "id": 1,
+      "name": "EP",
+      "minSong": 3,
+      "maxSong": 6
+    },
+    {
+      "id": 2,
+      "name": "LP",
+      "minSong": 7,
+      "maxSong": 15
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "name": "Electric Dreams",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "name": "Midnight Vibes",
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "name": "Neon Nights",
+      "albumId": 1
+    },
+    {
+      "id": 4,
+      "name": "Starlight Serenade",
+      "albumId": 1
+    },
+    {
+      "id": 5,
+      "name": "Rhythmic Pulse",
+      "albumId": 1
+    },
+    {
+      "id": 6,
+      "name": "Urban Groove",
+      "albumId": 1
+    },
+    {
+      "id": 7,
+      "name": "Whispering Winds",
+      "albumId": 2
+    },
+    {
+      "id": 8,
+      "name": "Celestial Serenity",
+      "albumId": 2
+    },
+    {
+      "id": 9,
+      "name": "Astral Journey",
+      "albumId": 2
+    },
+    {
+      "id": 10,
+      "name": "Mystic Dreams",
+      "albumId": 2
+    },
+    {
+      "id": 11,
+      "name": "Enchanted Echoes",
+      "albumId": 2
+    },
+    {
+      "id": 12,
+      "name": "Soothing Hymns",
+      "albumId": 2
+    },
+    {
+      "id": 13,
+      "name": "Cityscape Groove",
+      "albumId": 2
+    },
+    {
+      "id": 14,
+      "name": "Neon Lights",
+      "albumId": 3
+    },
+    {
+      "id": 15,
+      "name": "Downtown Dreams",
+      "albumId": 3
+    },
+    {
+      "id": 16,
+      "name": "Midnight Metropolis",
+      "albumId": 3
+    },
+    {
+      "id": 17,
+      "name": "Urban Pulse",
+      "albumId": 3
+    },
+    {
+      "id": 18,
+      "name": "Soulful Reverie",
+      "albumId": 4
+    },
+    {
+      "id": 19,
+      "name": "Smooth Rhythms",
+      "albumId": 4
+    },
+    {
+      "id": 20,
+      "name": "Jazzed Up Love",
+      "albumId": 4
+    },
+    {
+      "id": 21,
+      "name": "Groovy Melodies",
+      "albumId": 4
+    },
+    {
+      "id": 22,
+      "name": "Bluesy Serenity",
+      "albumId": 4
+    },
+    {
+      "id": 23,
+      "name": "Saxophone Romance",
+      "albumId": 4
+    },
+    {
+      "id": 24,
+      "name": "Interstellar Funk",
+      "albumId": 4
+    },
+    {
+      "id": 25,
+      "name": "Cosmic Dance",
+      "albumId": 5
+    },
+    {
+      "id": 26,
+      "name": "Galactic Grooves",
+      "albumId": 5
+    },
+    {
+      "id": 27,
+      "name": "Astro Beats",
+      "albumId": 5
+    },
+    {
+      "id": 28,
+      "name": "Groove Machine",
+      "albumId": 6
+    },
+    {
+      "id": 29,
+      "name": "Rain Man",
+      "albumId": 6
+    },
+    {
+      "id": 30,
+      "name": "Sunny",
+      "albumId": 6
+    },
+    {
+      "id": 31,
+      "name": "How Can Ya",
+      "albumId": 6
+    },
+    {
+      "id": 32,
+      "name": "Beep",
+      "albumId": 6
+    },
+    {
+      "id": 33,
+      "name": "Train Station",
+      "albumId": 6
+    },
+    {
+      "id": 34,
+      "name": "exit",
+      "albumId": 6
+    },
+    {
+      "id": 35,
+      "name": "Queen",
+      "albumId": 7
+    },
+    {
+      "id": 36,
+      "name": "Shop",
+      "albumId": 7
+    },
+    {
+      "id": 37,
+      "name": "Horror",
+      "albumId": 7
+    },
+    {
+      "id": 38,
+      "name": "Ate",
+      "albumId": 8
+    },
+    {
+      "id": 39,
+      "name": "Stop That",
+      "albumId": 8
+    },
+    {
+      "id": 40,
+      "name": "Jean Bean",
+      "albumId": 8
+    },
+    {
+      "id": 41,
+      "name": "Teenie Weenie",
+      "albumId": 8
+    },
+    {
+      "id": 42,
+      "name": "oOP",
+      "albumId": 8
+    },
+    {
+      "id": 43,
+      "name": "Wow",
+      "albumId": 8
+    },
+    {
+      "id": 44,
+      "name": "She Said",
+      "albumId": 8
+    },
+    {
+      "id": 45,
+      "name": "Funke",
+      "albumId": 9
+    },
+    {
+      "id": 46,
+      "name": "Weird",
+      "albumId": 9
+    },
+    {
+      "id": 48,
+      "name": "Dogs",
+      "albumId": 10
+    },
+    {
+      "id": 49,
+      "name": "Cats",
+      "albumId": 10
+    },
+    {
+      "id": 50,
+      "name": "Cry",
+      "albumId": 10
+    },
+    {
+      "id": 51,
+      "name": "Laugh",
+      "albumId": 10
+    },
+    {
+      "id": 52,
+      "name": "Sad",
+      "albumId": 10
+    },
+    {
+      "id": 53,
+      "name": "Him",
+      "albumId": 10
+    },
+    {
+      "id": 54,
+      "name": "K",
+      "albumId": 10
+    },
+    {
+      "id": 55,
+      "name": "Special",
+      "albumId": 11
+    },
+    {
+      "id": 56,
+      "name": "Cereal",
+      "albumId": 11
+    },
+    {
+      "id": 57,
+      "name": "Real",
+      "albumId": 11
+    },
+    {
+      "id": 58,
+      "name": "Camera",
+      "albumId": 12
+    },
+    {
+      "id": 59,
+      "name": "Caramel",
+      "albumId": 12
+    },
+    {
+      "id": 60,
+      "name": "Hoops",
+      "albumId": 12
+    },
+    {
+      "id": 61,
+      "name": "Awaited",
+      "albumId": 12
+    },
+    {
+      "id": 62,
+      "name": "Gone",
+      "albumId": 12
+    },
+    {
+      "id": 63,
+      "name": "She",
+      "albumId": 12
+    },
+    {
+      "id": 64,
+      "name": "Beans",
+      "albumId": 12
+    },
+    {
+      "id": 65,
+      "name": "Vase",
+      "albumId": 13
+    },
+    {
+      "id": 66,
+      "name": "Flowers",
+      "albumId": 13
+    },
+    {
+      "id": 67,
+      "name": "Red Stain",
+      "albumId": 13
+    },
+    {
+      "id": 68,
+      "name": "That",
+      "albumId": 14
+    },
+    {
+      "id": 69,
+      "name": "I saw",
+      "albumId": 14
+    },
+    {
+      "id": 70,
+      "name": "Earring",
+      "albumId": 14
+    },
+    {
+      "id": 71,
+      "name": "Again",
+      "albumId": 14
+    },
+    {
+      "id": 72,
+      "name": "Alone",
+      "albumId": 14
+    },
+    {
+      "id": 73,
+      "name": "Me",
+      "albumId": 14
+    },
+    {
+      "id": 74,
+      "name": "Leaf",
+      "albumId": 14
+    },
+    {
+      "id": 75,
+      "name": "Yellow",
+      "albumId": 15
+    },
+    {
+      "id": 76,
+      "name": "Heart",
+      "albumId": 15
+    },
+    {
+      "id": 77,
+      "name": "Skies",
+      "albumId": 15
+    },
+    {
+      "id": 78,
+      "name": "No",
+      "albumId": 16
+    },
+    {
+      "id": 79,
+      "name": "Let's Not",
+      "albumId": 16
+    },
+    {
+      "id": 80,
+      "name": "XOXO Gossip",
+      "albumId": 16
+    },
+    {
+      "id": 81,
+      "name": "Honey Bean",
+      "albumId": 16
+    },
+    {
+      "id": 82,
+      "name": "Happy",
+      "albumId": 16
+    },
+    {
+      "id": 83,
+      "name": "Days",
+      "albumId": 16
+    },
+    {
+      "id": 84,
+      "name": "Blue",
+      "albumId": 16
+    },
+    {
+      "id": 85,
+      "name": "Queue",
+      "albumId": 17
+    },
+    {
+      "id": 86,
+      "name": "Rose",
+      "albumId": 17
+    },
+    {
+      "id": 87,
+      "name": "Petal",
+      "albumId": 17
+    },
+    {
+      "id": 88,
+      "name": "Trick or Treat",
+      "albumId": 17
+    },
+    {
+      "name": "Sugar Free",
+      "albumId": 18,
+      "id": 89
+    },
+    {
+      "name": "Ketchup",
+      "albumId": 18,
+      "id": 90
+    },
+    {
+      "name": "Snake",
+      "albumId": 18,
+      "id": 91
+    },
+    {
+      "name": "See",
+      "albumId": 19,
+      "id": 92
+    },
+    {
+      "name": "Me and You",
+      "albumId": 19,
+      "id": 93
+    },
+    {
+      "name": "Go Away",
+      "albumId": "19",
+      "id": 94
+    },
+    {
+      "name": "Whirl",
+      "albumId": 20,
+      "id": 95
+    },
+    {
+      "name": "Wind on ME",
+      "albumId": 20,
+      "id": 96
+    },
+    {
+      "name": "55",
+      "albumId": 20,
+      "id": 97
+    },
+    {
+      "name": "Quiet",
+      "albumId": 20,
+      "id": 98
+    },
+    {
+      "name": "Quit",
+      "albumId": 20,
+      "id": 99
+    },
+    {
+      "name": "Sleep",
+      "albumId": 20,
+      "id": 100
+    },
+    {
+      "name": "Keep Me",
+      "albumId": 20,
+      "id": 101
+    },
+    {
+      "name": "Okie Dokie",
+      "albumId": 20,
+      "id": 102
+    },
+    {
+      "name": "Teenie Weenie",
+      "albumId": 20,
+      "id": 103
+    },
+    {
+      "name": "Jean Bean",
+      "albumId": 20,
+      "id": 104
+    },
+    {
+      "name": "Jess",
+      "albumId": 20,
+      "id": 105
+    },
+    {
+      "name": "Stop",
+      "albumId": 20,
+      "id": 106
+    },
+    {
+      "name": "Alright",
+      "albumId": 20,
+      "id": 107
+    },
+    {
+      "name": "7*",
+      "albumId": 20,
+      "id": 108
+    },
+    {
+      "name": "Hit me",
+      "albumId": 20,
+      "id": 109
+    },
+    {
+      "name": "Snoop",
+      "albumId": "9",
+      "id": 124
+    }
+  ],
   "albums": [
     {
       "id": 1,
       "name": "Groove Fusion",
       "imgUrl": "https://static.boredpanda.com/blog/wp-content/uploads/2021/06/fake-album-covers-reddit-60d328a91e379-jpeg__700.jpg",
       "artistName": "Rustic Rebels",
-      "song1": "Electric Dreams",
-      "song2": "Midnight Vibes",
-      "song3": "Neon Nights",
-      "song4": "Starlight Serenade",
-      "song5": "Rhythmic Pulse",
-      "song6": "Urban Groove",
       "genreId": 3,
-      "userId": 8
+      "userId": 5,
+      "albumType": 1
     },
     {
       "id": 2,
       "name": "Echo",
       "imgUrl": "https://i.pinimg.com/originals/0e/fb/13/0efb13304e6c69a383736aaad990cd5d.png",
       "artistName": "Urban Pulse",
-      "song1": "Whispering Winds",
-      "song2": "Celestial Serenity",
-      "song3": "Astral Journey",
-      "song4": "Mystic Dreams",
-      "song5": "Enchanted Echoes",
-      "song6": "Soothing Hymns",
       "genreId": 4,
-      "userId": 5
+      "userId": 4,
+      "albumType": 2
     },
     {
       "id": 3,
       "name": "Neon City Nights",
       "imgUrl": "https://cdna.artstation.com/p/assets/images/images/009/911/044/large/etienne-despres-factory.jpg?1521549944",
       "artistName": "Factory Smoker",
-      "song1": "Cityscape Groove",
-      "song2": "Neon Lights",
-      "song3": "Downtown Dreams",
-      "song4": "Midnight Metropolis",
-      "song5": "Urban Pulse",
-      "song6": "Electric Avenue",
       "genreId": 1,
-      "userId": 2
+      "userId": 3,
+      "albumType": 1
     },
     {
       "id": 4,
       "name": "Soulful Serenade",
       "imgUrl": "https://pbs.twimg.com/media/ExM-egMU8Agwuiq.jpg:large",
       "artistName": "Nemesis",
-      "song1": "Soulful Reverie",
-      "song2": "Smooth Rhythms",
-      "song3": "Jazzed Up Love",
-      "song4": "Groovy Melodies",
-      "song5": "Bluesy Serenity",
-      "song6": "Saxophone Romance",
       "genreId": 7,
-      "userId": 9
+      "userId": 2,
+      "albumType": 2
     },
     {
       "id": 5,
       "name": "Starship Groove",
       "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4eb0e600-c131-4cc8-9a5e-93cd97fccdf1/dedcpf3-338edf19-eef0-4563-8784-be43e790a3a8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlYjBlNjAwLWMxMzEtNGNjOC05YTVlLTkzY2Q5N2ZjY2RmMVwvZGVkY3BmMy0zMzhlZGYxOS1lZWYwLTQ1NjMtODc4NC1iZTQzZTc5MGEzYTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PLoaN3-i7e5vSCArmf1yGMRD2Mfscil5_j1RHDkT5rI",
       "artistName": "Lucid Dreams",
-      "song1": "Interstellar Funk",
-      "song2": "Cosmic Dance",
-      "song3": "Galactic Grooves",
-      "song4": "Astro Beats",
-      "song5": "Space Odyssey",
-      "song6": "Funky Nebula",
       "genreId": 5,
-      "userId": 6
+      "userId": 1,
+      "albumType": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Funky Fusion",
       "imgUrl": "https://64.media.tumblr.com/c840ef6fba1cd656e880994d94c2afc6/d8a88cb22905e866-4b/s1280x1920/31a1e4f3c6ae3a5ba62d0b9e8373744a6805aa74.pnj",
       "artistName": "Sonic",
-      "song1": "Groove Machine",
-      "song2": "Funky Jams",
-      "song3": "Soulful Syncopation",
-      "song4": "Retro Funkadelic",
-      "song5": "Bassline Boogie",
-      "song6": "Disco Fever",
       "genreId": 2,
-      "userId": 7
+      "userId": 1,
+      "albumType": 2
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Oceanic Harmonies",
       "imgUrl": "https://images.squarespace-cdn.com/content/v1/5005d21ac4aa55eb76ab5f3b/1422467421097-LP0QKFC8NKRVM7ND6ZU3/image.jpg",
       "artistName": "Kruger",
-      "song1": "Siren's Song",
-      "song2": "Deep Blue Melodies",
-      "song3": "Coral Serenade",
-      "song4": "Tidal Whispers",
-      "song5": "Underwater Dreams",
-      "song6": "Marine Melancholy",
       "genreId": 7,
-      "userId": 9
+      "userId": 2,
+      "albumType": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Lunar Lullabies",
       "imgUrl": "https://images.nightcafe.studio/jobs/nrOcbGDvjDgIZPO7rbA6/nrOcbGDvjDgIZPO7rbA6.jpg?tr=w-1600,c-at_max",
       "artistName": "Melodic Misfits",
-      "song1": "Moonlit Sonata",
-      "song2": "Starry Nocturne",
-      "song3": "Celestial Serenades",
-      "song4": "Cosmic Elegy",
-      "song5": "Astronomical Dreams",
-      "song6": "Lunar Melodies",
       "genreId": 7,
-      "userId": 9
+      "userId": 3,
+      "albumType": 2
+    },
+    {
+      "id": 9,
+      "name": "Electric Dreamscape",
+      "imgUrl": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2018/02/graduated-filter-cool-contrast-fog.jpg?resize=750%2C500&ssl=1",
+      "artistName": "Wannabes",
+      "genreId": 6,
+      "userId": 4,
+      "albumType": 1
     },
     {
       "id": 10,
-      "name": "Electric Dreamscape",
-      "imgUrl": "https://art.ngfiles.com/images/1461000/1461506_wanimac_fake-punk-album-cover.png?f1602548760",
-      "artistName": "Wannabes",
-      "song1": "Digital Fantasia",
-      "song2": "Cybernetic Rhythms",
-      "song3": "Virtual Reality Groove",
-      "song4": "Techno Trance",
-      "song5": "Electric Utopia",
-      "song6": "Synthetic Harmony",
-      "genreId": 6,
-      "userId": 3
-    },
-    {
-      "id": 11,
       "name": "Mystic Moonlight",
       "imgUrl": "https://www.adobe.com/express/create/cover/media_186f2cf188042e9023c38707a6f29178a6527081c.png?width=400&format=png&optimize=medium",
       "artistName": "Sabby",
-      "song1": "Enigmatic Shadows",
-      "song2": "Moonlit Whispers",
-      "song3": "Nightfall Serenades",
-      "song4": "Ethereal Nocturnes",
-      "song5": "Lunar Reflections",
-      "song6": "Mystical Aura",
       "genreId": 4,
-      "userId": 8
+      "userId": 5,
+      "albumType": 2
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Retro Revival",
       "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a768f76-7479-492d-b48c-e9200d6b13f9/de2r525-cac2ce6d-b50a-4db7-a187-d0d3a97a8c77.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNzY4Zjc2LTc0NzktNDkyZC1iNDhjLWU5MjAwZDZiMTNmOVwvZGUycjUyNS1jYWMyY2U2ZC1iNTBhLTRkYjctYTE4Ny1kMGQzYTk3YThjNzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PJg864jf3FunXv-KAoQA7Awk9nNcDBoA88_LPZP6KIk",
       "artistName": "Goat Vomit",
-      "song1": "Vintage Grooves",
-      "song2": "Old School Jams",
-      "song3": "Funky Nostalgia",
-      "song4": "Disco Flashback",
-      "song5": "Soulful Rewind",
-      "song6": "Classic Funk",
       "genreId": 2,
-      "userId": 5
+      "userId": 4,
+      "albumType": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "Serene Soundscapes",
       "imgUrl": "https://pm1.aminoapps.com/7056/8f45a2c5fee5620e9c1a60a99356772d56118c52r1-997-1024v2_uhq.jpg",
       "artistName": "Lil Smeeze",
-      "song1": "Tranquil Melodies",
-      "song2": "Peaceful Harmonies",
-      "song3": "Nature's Lullaby",
-      "song4": "Zen Serenity",
-      "song5": "Calming Breeze",
-      "song6": "Harmonic Zenith",
       "genreId": 7,
-      "userId": 2
+      "userId": 5,
+      "albumType": 2
     },
     {
-      "id": 15,
+      "id": 13,
       "name": "Guitar Legends",
       "imgUrl": "https://i.guim.co.uk/img/media/63d464fad102a4f1d9817f89e5d232d7f6a88d87/0_0_4459_4409/master/4459.jpg?width=700&quality=85&auto=format&fit=max&s=957ced36dd3ba1eea1e0604e362e6462",
       "artistName": "The Three Funks",
-      "song1": "Guitar Virtuoso",
-      "song2": "Rocking Riffs",
-      "song3": "Bluesy Licks",
-      "song4": "Acoustic Ballads",
-      "song5": "Shredding Solos",
-      "song6": "Folk Fusion",
       "genreId": 4,
-      "userId": 9
+      "userId": 4,
+      "albumType": 1
     },
     {
       "name": "Mac & Cheez",
       "imgUrl": "https://www.foodandwine.com/thmb/MT4ou8PYjRGpQBEsm1SyZxfN8Oo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/types-of-cheese-chefs-always-have-in-their-fridge-FT-BLOG0122-f4ff1613b1b14b09ad0b6c0734a59781.jpg",
       "artistName": "Banana",
-      "song1": "OMG",
-      "song2": "why",
-      "song3": "You so so",
-      "song4": "Beanie Babies",
-      "song5": "Peaches & Cream",
-      "song6": "Ha!",
       "genreId": 2,
-      "userId": 1,
-      "id": 16
+      "userId": 3,
+      "id": 14,
+      "albumType": 2
     },
     {
       "name": "abc",
       "imgUrl": "https://d16kd6gzalkogb.cloudfront.net/magazine_images/Simon-McCheung.jpg",
       "artistName": "Huh",
-      "song1": "XOXO",
-      "song2": "S",
-      "song3": "drop",
-      "song4": "Money",
-      "song5": "Honey Bean",
-      "song6": "Jean Dream",
       "genreId": 4,
-      "userId": 1,
-      "id": 17
+      "userId": 2,
+      "id": 15,
+      "albumType": 1
     },
     {
+      "id": 16,
       "name": "Lilacs",
       "imgUrl": "https://i.pinimg.com/1200x/47/33/3f/47333f7c39c7bccc7d1b8abb0e6bed16.jpg",
       "artistName": "Star",
-      "song1": "Rose",
-      "song2": "Petals",
-      "song3": "Trick or Treat",
-      "song4": "Fall",
-      "song5": "Candy",
-      "song6": "Pumpkin",
       "genreId": 2,
-      "userId": 9,
-      "id": 20
+      "userId": 4,
+      "albumType": 2
     },
     {
+      "id": 17,
       "name": "Chicken",
       "imgUrl": "https://sugarfishsushi.com/wp-content/uploads/2019/09/SF2GoBox.jpg",
       "artistName": "Star",
-      "song1": "Lilac",
-      "song2": "Trick or Treat",
-      "song3": "Banana",
-      "song4": "Dandelion",
-      "song5": "Petals",
-      "song6": "OK",
       "genreId": 5,
+      "userId": 4,
+      "albumType": 1
+    },
+    {
+      "id": 18,
+      "name": "abd",
+      "imgUrl": "https://images.squarespace-cdn.com/content/v1/61454c3a9e607805cad7423a/1673577428790-WWAYZVH18NZPHVKRZ89F/unsplash-image-HgdfxyGYfrc.jpg",
+      "artistName": "Yes",
+      "genreId": 4,
       "userId": 5,
-      "id": 21
+      "albumType": 1
+    },
+    {
+      "id": 19,
+      "name": " Rexy",
+      "imgUrl": " https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "artistName": " How ",
+      "genreId": 5,
+      "userId": 4,
+      "albumType": 1
+    },
+    {
+      "id": 20,
+      "name": "Cheap",
+      "imgUrl": "https://static.vecteezy.com/system/resources/thumbnails/025/181/412/small/picture-a-captivating-scene-of-a-tranquil-lake-at-sunset-ai-generative-photo.jpg",
+      "artistName": "Greep",
+      "genreId": 2,
+      "userId": 4,
+      "albumType": 2
     }
   ]
 }
