@@ -615,6 +615,26 @@
       "name": "Snoop",
       "albumId": "9",
       "id": 124
+    },
+    {
+      "name": "Breakfast (Walt Jr Interlude)",
+      "albumId": 21,
+      "id": 125
+    },
+    {
+      "name": "Betch",
+      "albumId": 21,
+      "id": 126
+    },
+    {
+      "name": "Minerals (ft. ASAC Shrader)",
+      "albumId": 21,
+      "id": 127
+    },
+    {
+      "name": "Great",
+      "albumId": "11",
+      "id": 128
     }
   ],
   "albums": [
@@ -797,6 +817,19 @@
       "genreId": 2,
       "userId": 4,
       "albumType": 2
+    },
+    {
+      "name": "Heisenberg",
+      "imgUrl": "https://i.imgur.com/6D1FVsL.jpg",
+      "artistName": "Gustavo Fring",
+      "genreId": 2,
+      "userId": 4,
+      "albumType": 1,
+      "id": 21
+    },
+    {
+      "albumType": 1,
+      "id": 22
     }
   ]
 }
