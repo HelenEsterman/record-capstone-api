@@ -102,41 +102,6 @@
       "albumId": 1
     },
     {
-      "id": 7,
-      "name": "Whispering Winds",
-      "albumId": 2
-    },
-    {
-      "id": 8,
-      "name": "Celestial Serenity",
-      "albumId": 2
-    },
-    {
-      "id": 9,
-      "name": "Astral Journey",
-      "albumId": 2
-    },
-    {
-      "id": 10,
-      "name": "Mystic Dreams",
-      "albumId": 2
-    },
-    {
-      "id": 11,
-      "name": "Enchanted Echoes",
-      "albumId": 2
-    },
-    {
-      "id": 12,
-      "name": "Soothing Hymns",
-      "albumId": 2
-    },
-    {
-      "id": 13,
-      "name": "Cityscape Groove",
-      "albumId": 2
-    },
-    {
       "id": 14,
       "name": "Neon Lights",
       "albumId": 3
@@ -387,11 +352,6 @@
       "albumId": 12
     },
     {
-      "id": 65,
-      "name": "Vase",
-      "albumId": 13
-    },
-    {
       "id": 66,
       "name": "Flowers",
       "albumId": 13
@@ -485,26 +445,6 @@
       "id": 84,
       "name": "Blue",
       "albumId": 16
-    },
-    {
-      "id": 85,
-      "name": "Queue",
-      "albumId": 17
-    },
-    {
-      "id": 86,
-      "name": "Rose",
-      "albumId": 17
-    },
-    {
-      "id": 87,
-      "name": "Petal",
-      "albumId": 17
-    },
-    {
-      "id": 88,
-      "name": "Trick or Treat",
-      "albumId": 17
     },
     {
       "name": "Sugar Free",
@@ -607,34 +547,79 @@
       "id": 108
     },
     {
-      "name": "Hit me",
-      "albumId": 20,
-      "id": 109
-    },
-    {
       "name": "Snoop",
       "albumId": "9",
       "id": 124
     },
     {
-      "name": "Breakfast (Walt Jr Interlude)",
-      "albumId": 21,
-      "id": 125
-    },
-    {
-      "name": "Betch",
-      "albumId": 21,
-      "id": 126
-    },
-    {
-      "name": "Minerals (ft. ASAC Shrader)",
-      "albumId": 21,
-      "id": 127
-    },
-    {
       "name": "Great",
       "albumId": "11",
       "id": 128
+    },
+    {
+      "name": "Spooky Szn",
+      "albumId": 24,
+      "id": 129
+    },
+    {
+      "name": "Punkin",
+      "albumId": 24,
+      "id": 130
+    },
+    {
+      "name": "Ghostface",
+      "albumId": 24,
+      "id": 131
+    },
+    {
+      "name": "Orange and Black",
+      "albumId": 24,
+      "id": 133
+    },
+    {
+      "name": "Trick or Treat",
+      "albumId": 24,
+      "id": 134
+    },
+    {
+      "name": "Thanksgiving",
+      "albumId": 24,
+      "id": 135
+    },
+    {
+      "name": "Breakfast (Walt Jr Interlude)",
+      "albumId": 25,
+      "id": 136
+    },
+    {
+      "name": "Minerals (Ft. ASAC Shrader)",
+      "albumId": 25,
+      "id": 137
+    },
+    {
+      "name": "Betch",
+      "albumId": 25,
+      "id": 138
+    },
+    {
+      "name": "My Own Private Domicile",
+      "albumId": 25,
+      "id": 139
+    },
+    {
+      "name": "I am the Danger",
+      "albumId": 25,
+      "id": 140
+    },
+    {
+      "name": "Jane",
+      "albumId": 25,
+      "id": 141
+    },
+    {
+      "name": "Voss",
+      "albumId": "13",
+      "id": 142
     }
   ],
   "albums": [
@@ -646,15 +631,6 @@
       "genreId": 3,
       "userId": 5,
       "albumType": 1
-    },
-    {
-      "id": 2,
-      "name": "Echo",
-      "imgUrl": "https://i.pinimg.com/originals/0e/fb/13/0efb13304e6c69a383736aaad990cd5d.png",
-      "artistName": "Urban Pulse",
-      "genreId": 4,
-      "userId": 4,
-      "albumType": 2
     },
     {
       "id": 3,
@@ -783,15 +759,6 @@
       "albumType": 2
     },
     {
-      "id": 17,
-      "name": "Chicken",
-      "imgUrl": "https://sugarfishsushi.com/wp-content/uploads/2019/09/SF2GoBox.jpg",
-      "artistName": "Star",
-      "genreId": 5,
-      "userId": 4,
-      "albumType": 1
-    },
-    {
       "id": 18,
       "name": "abd",
       "imgUrl": "https://images.squarespace-cdn.com/content/v1/61454c3a9e607805cad7423a/1673577428790-WWAYZVH18NZPHVKRZ89F/unsplash-image-HgdfxyGYfrc.jpg",
@@ -819,17 +786,26 @@
       "albumType": 2
     },
     {
+      "albumType": 2,
+      "id": 23
+    },
+    {
+      "name": "Fall",
+      "imgUrl": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/fall-leaves-forest-Shairaa-SS.jpeg?itok=Qz0nVbxV",
+      "artistName": "Leafy Bunch",
+      "genreId": 3,
+      "userId": 4,
+      "albumType": 1,
+      "id": 24
+    },
+    {
       "name": "Heisenberg",
       "imgUrl": "https://i.imgur.com/6D1FVsL.jpg",
       "artistName": "Gustavo Fring",
-      "genreId": 2,
+      "genreId": 3,
       "userId": 4,
       "albumType": 1,
-      "id": 21
-    },
-    {
-      "albumType": 1,
-      "id": 22
+      "id": 25
     }
   ]
 }
